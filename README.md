@@ -1,4 +1,8 @@
-<a href="https://www.instagram.com/ramadh20?r=nametag"><img src="https://images.cooltext.com/5537105.png" width="320" height="211" alt="  RAXS-UBOT" /></a>
+## PEMILIK REPO
+*   [DEADPOOL](https://t.me/ImThelastKingMs) - ⚡ Raxs-Project
+
+<a href="https://t.me/ImThelastKingMs?r=nametag">".  <img src="https://telegra.ph/file/4c83c3a99d035598533b8.gif"
+ height="211" alt="  RAXS-UBOT" /></a>
 
 <p align="center">
   <a href="https://github.com/Rakaxyxz/RAM-UBOT/fork">
@@ -14,9 +18,7 @@
 
 <a href="https://t.me/ramubotspam"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
 
-## PEMILIK REPO
-* **Landak** 🦔
-[<img src="https://media.giphy.com/media/o97Wl6qaoJytXcppUj/giphy.gif">](https://t.me/maafgausahsokap)
+
 
   
   
